@@ -1,0 +1,73 @@
+.contenido {
+    width: 350px;
+    height: 400px;
+    border: 2px solid ;
+    border-color: rgb(114, 111, 111);
+    background-color: rgb(226, 224, 224);
+    border-radius: 15px;
+
+}
+h1 {
+    text-align: end;
+}
+
+.boton {
+    height: 50px;
+    width: 70px;
+    margin: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    text-align: center;
+}
+.boton1{
+    background-color: rgb(35, 168, 221) !important;
+}
+
+#botonigual {
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-top: 10px;
+    height: 245px;
+    width: 70px;
+    
+    
+}
+
+
+#pantalla {
+    height: 60px;
+    width: 100%;
+    background-color: #252525;
+    color: white;
+    text-align: end;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    font-size: 40px;
+    border-radius: 10px;
+}
+
+
+.pantalla {
+    background-color: #252525;
+    color: white;
+    height: 60px;
+    border-radius: 10px;
+
+}
+
+.numeros{
+    background-color: #D0D0D7;
+}
+
+.fila{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+::placeholder{
+    color: white;
+    opacity: 100%;
+}
